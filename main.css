@@ -3231,3 +3231,11 @@ a.pswp__share--download:hover {
 	color: #ccc;
 	text-decoration: underline
 }
+
+.article-entry h2{
+	margin-top: 20px;
+    font-weight: 300;
+    color: #574c4c;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #ddd;
+}
